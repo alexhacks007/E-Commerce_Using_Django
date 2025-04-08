@@ -1,12 +1,12 @@
+# Project created by :
+
+`Alexraj TS....Python full stack developer`
+
 # Django React Ecommerce
 
 ## Backend development workflow
 
 `virtualenv env`
-
-# For Mac/ Linux
-
-`source env/bin/activate`
 
 # For Window
 
